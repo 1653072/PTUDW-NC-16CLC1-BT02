@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PTUDW-NC-16CLC1-BT02/static/css/main.faecdb67.chunk.css",
+    "main.js": "/PTUDW-NC-16CLC1-BT02/static/js/main.52c5c1ce.chunk.js",
+    "main.js.map": "/PTUDW-NC-16CLC1-BT02/static/js/main.52c5c1ce.chunk.js.map",
+    "runtime-main.js": "/PTUDW-NC-16CLC1-BT02/static/js/runtime-main.31d57375.js",
+    "runtime-main.js.map": "/PTUDW-NC-16CLC1-BT02/static/js/runtime-main.31d57375.js.map",
+    "static/js/2.933e3b6d.chunk.js": "/PTUDW-NC-16CLC1-BT02/static/js/2.933e3b6d.chunk.js",
+    "static/js/2.933e3b6d.chunk.js.map": "/PTUDW-NC-16CLC1-BT02/static/js/2.933e3b6d.chunk.js.map",
+    "index.html": "/PTUDW-NC-16CLC1-BT02/index.html",
+    "precache-manifest.d35ea119ce63623183d7aa6adebcc241.js": "/PTUDW-NC-16CLC1-BT02/precache-manifest.d35ea119ce63623183d7aa6adebcc241.js",
+    "service-worker.js": "/PTUDW-NC-16CLC1-BT02/service-worker.js",
+    "static/css/main.faecdb67.chunk.css.map": "/PTUDW-NC-16CLC1-BT02/static/css/main.faecdb67.chunk.css.map",
+    "static/js/2.933e3b6d.chunk.js.LICENSE.txt": "/PTUDW-NC-16CLC1-BT02/static/js/2.933e3b6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d57375.js",
+    "static/js/2.933e3b6d.chunk.js",
+    "static/css/main.faecdb67.chunk.css",
+    "static/js/main.52c5c1ce.chunk.js"
+  ]
+}
